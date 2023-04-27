@@ -1,6 +1,6 @@
 # Personal-Use-Discord-Music-Bot-with-YouTube-Recommendation-Function
 
-Personal use discord music bot with YouTube recommendation function
+Personal use discord music bot with YouTube recommendation function using Python
 
 The code of music bot is based on Gabriel-M-Martins/Discord-MusicBot.
 
