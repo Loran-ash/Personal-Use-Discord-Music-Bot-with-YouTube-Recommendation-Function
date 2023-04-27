@@ -4,7 +4,7 @@ Personal use discord music bot with YouTube recommendation function
 
 The code of music bot is based on Gabriel-M-Martins/Discord-MusicBot.
 
-Recommendation System.ipynb mainly deals with raw datasets. Because the .csv files are too big, I didn't upload them here. The analyzed data is already saved to result.csv.
+Recommendation System.ipynb mainly deals with raw datasets. Because the .csv files are too large, I didn't upload them here. The analyzed data is already saved to result.csv.
 
 Set up:
 
