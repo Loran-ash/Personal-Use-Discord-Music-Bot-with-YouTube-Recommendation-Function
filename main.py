@@ -10,7 +10,7 @@ import utilities
 import Recommendation
 
 global url_lst
-url_lst=['https://www.youtube.com/watch?v=dQw4w9WgXcQ']
+url_lst=['']
 
 token=open('token.txt','r')
 key=token.read()
