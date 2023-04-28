@@ -15,3 +15,15 @@ Set up:
 3.After downloading those files, You need to create a file named token.txt under the same folder that contains only your Discord Bot token.(You can check it on the Discord Developer Portal website, copy and paste.)
 
 4.Run main.py
+
+Commands:
+
+/play : Searchs for the author's current voice channel, joins it and plays the requested song, which can be a url to a video on YouTube or a simple search.
+/play : Without url after the command. This will recommand you a new song according to your previously played songs.
+/skip : Goes to next song.
+/pause : Pauses the current song.
+/resume : Resumes the current song.
+/stop : Stops playing the current song and clears the queue.
+/leave : Leaves the voice channel.
+/print : Only for debugging, returns the session ID, what is currently playing and what is on the queue.
+
