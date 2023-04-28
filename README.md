@@ -12,6 +12,6 @@ Set up:
 
 2.You only need four of these files. Recommendation System.ipynb is unnecessary.
 
-3.After downloading those files, You need to create a file named token.txt that contains only your Discord Bot token.(You can check it on the Discord Developer Portal website, copy and paste.)
+3.After downloading those files, You need to create a file named token.txt under the same folder that contains only your Discord Bot token.(You can check it on the Discord Developer Portal website, copy and paste.)
 
 4.Run main.py
