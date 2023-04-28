@@ -19,11 +19,18 @@ Set up:
 Commands:
 
 /play : Searchs for the author's current voice channel, joins it and plays the requested song, which can be a url to a video on YouTube or a simple search.
+
 /play : Without url after the command. This will recommand you a new song according to your previously played songs.
+
 /skip : Goes to next song.
+
 /pause : Pauses the current song.
+
 /resume : Resumes the current song.
+
 /stop : Stops playing the current song and clears the queue.
+
 /leave : Leaves the voice channel.
+
 /print : Only for debugging, returns the session ID, what is currently playing and what is on the queue.
 
